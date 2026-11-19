@@ -89,3 +89,9 @@ O Lock serve o propósito de fazer com que um processamento ocorra somente quand
 
 Questão 5: Considerando a sequência de eventos, a sincronização do estoque deve acontecer antes ou depois do processamento dos pedidos? Explique a relação de causalidade.
 A sincronização do estoque deve ser realizada após o processamento dos pedidos. Em sequência o pedido é realizado, a sincronização é feita, atualizando a nova disponibilidade no estoque, e garantindo que o sistema tenha sempre controle de quantos produtos tem á disposição. 
+
+Conclusão:
+
+Nesse período aprendi diversas habilidades em python, trabalhando com conceitos como concorrência, sincronização e tolerância a falhas que me deram a fundamentação para desenvolver praticamente qualquer sistema empresarial de vendas.
+
+Aluno: Thiago Soares de Araújo - 3° Semestre
