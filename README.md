@@ -1,4 +1,8 @@
 # prova2simuladosistemasdistribuidos
+
+Aluno: Thiago Soares de Araújo - 3° Semestre
+Professora: Simone Tatiane do Canto
+Data: 18/11/2026
 EVIDENCIA 1 - Primeira execução.
 
 ===CENTRAL DE PEDIDOS===
